@@ -260,8 +260,6 @@ src
 
 └── hospital
 
-    ├── Demo.java
-
     ├── Patient.java
 
     ├── EmergencyCase.java
